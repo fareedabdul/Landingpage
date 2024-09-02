@@ -36,6 +36,7 @@ html, body{
     font-size: 20px;
 }
 .rnav a{ 
+    text-decoration:none;
     margin-right: 15px;
 }
 .ri-twitter-fill{
